@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Todo
+
+  Created by Samuele Francesco Rizzo on 13/09/22.
+  
+*/
+
+// MARK: - Common
+"empty_state.title" = "Nothing here yet.";
+
+// MARK: - Task list
+"task_list.title" = "Todo";
+"task_list.empty_state.title" = "No tasks created, start planning something.";
+
+// MARK: - Task detail
+"task_detail.new.title" = "New task";
+"task_detail.edit.title" = "Edit task";
+"task_detail.title_text_field.placeholder" = "Task title";
+"task_detail.save_button.title" = "Save";
